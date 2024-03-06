@@ -1,6 +1,6 @@
 locals {
-  vpc_id              = "vpc-08ef158911afd6de8"
-  subnet_id           = "subnet-0b5038c7d39ec986c"
+  vpc_id              = "vpc-07a1440942c7b8a3a"
+  subnet_id           = "subnet-05bbb14e86086f460"
   keyname             = "CIaCTS_key"
 }
 
