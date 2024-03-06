@@ -1,7 +1,7 @@
 locals {
   vpc_id              = "vpc-07a1440942c7b8a3a"
   subnet_id           = "subnet-05bbb14e86086f460"
-  keyname             = "CIaCTS_key"
+  keyname             = "JyothirmayiKeyPair_key"
 }
 
 provider "aws" {
